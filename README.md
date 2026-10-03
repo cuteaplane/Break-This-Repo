@@ -1732,9 +1732,13 @@ https://docs.google.com/document/d/1Y669HJaH4areKBSFie_2k1dT045l3U2fiM34O_Y-dwQ/
 
 ## NotmyFault
 
-收录 NotmyFault 自动化工具项目，当前版本 alpha-0.15.0，采用 GPL-3.0。源代码快照和上游 README 位于 [`NotmyFault/`](./NotmyFault/)；上游仓库：[cuteaplane/NotmyFault](https://github.com/cuteaplane/NotmyFault)。
+拜托把自己vibe coding做的垃圾项目上传到这个仓库里面真的很有救赎感好吗
 
-- [项目 README](./NotmyFault/README.md)
-- [源码快照 ZIP](./NotmyFault/NotmyFault-alpha-0.15.0.zip)
-- [许可证](./NotmyFault/LICENSE)
+可能是你用过的最垃圾的自动化!现已严肃加入这个牛逼牛逼牛逼牛逼牛逼牛逼牛逼牛逼牛逼的仓库
+
+求你们都来用一用吧，不不不不我无疑是愤怒的
+
+什么你需要扩展性，你需要复杂的条件树，什么这里都能满足你的，快来吧，快来吧，快来吧，快来吧，快来吧，快来吧
+
+qwqwqeewqeeqwweqrrwrhanxhjsnxhdbhemc
 
