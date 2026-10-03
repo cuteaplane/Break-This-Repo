@@ -1729,3 +1729,12 @@ https://docs.google.com/document/d/1Y669HJaH4areKBSFie_2k1dT045l3U2fiM34O_Y-dwQ/
 <img src="https://breadripper.pages.dev/design.png" alt="图片alt" title="null">
 
 ---
+
+## NotmyFault
+
+收录 NotmyFault 自动化工具项目，当前版本 alpha-0.15.0，采用 GPL-3.0。源代码快照和上游 README 位于 [`NotmyFault/`](./NotmyFault/)；上游仓库：[cuteaplane/NotmyFault](https://github.com/cuteaplane/NotmyFault)。
+
+- [项目 README](./NotmyFault/README.md)
+- [源码快照 ZIP](./NotmyFault/NotmyFault-alpha-0.15.0.zip)
+- [许可证](./NotmyFault/LICENSE)
+
